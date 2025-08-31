@@ -7,7 +7,7 @@ This is a fork of Erecco's work. I merely share updates/additions for new/change
 My latest update is available here:<br>
 https://github.com/frosty024/Cargo_Grid_Reference_Guide/releases/tag/Release
 
-**Note:**
+**Note:**<br>
 It's entirely possible that my updates are not 100% accurate. I do not own/fly all of the ships in this guide. I also cannot account for the original work in this guide.
 
 <sub>Erecco's original guide: https://gitlab.com/Erecco/a-study-on-quantum-travel-time/-/blob/master/misc/Cargo_Grid_Reference_Guide.pdf</sub>
