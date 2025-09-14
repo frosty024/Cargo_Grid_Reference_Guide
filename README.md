@@ -5,7 +5,7 @@ A summary sheet of existing Cargo Grids for Star Citizen ships and Freight Eleva
 This is a fork of Erecco's work. I merely share updates/additions for new/changed ships and/or cargo capacities that I've done for my own use while awaiting Erecco's official update. All credit goes to Erecco for his original work!
 
 My latest update is available here:<br>
-https://github.com/frosty024/Cargo_Grid_Reference_Guide/releases/tag/Release
+https://github.com/frosty024/Cargo_Grid_Reference_Guide/releases
 
 **Note:**<br>
 It's entirely possible that my updates are not 100% accurate. I do not own/fly all of the ships in this guide. I also cannot account for the original work in this guide.
