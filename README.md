@@ -1,6 +1,6 @@
 # Cargo Grid Reference Guide
 
-A summary sheet of existing Cargo Grids for Star Citizen ships and Freight Elevators...
+A summary sheet of existing Cargo Grids for Star Citizen ships and freight elevators...
 
 This is a fork of Erecco's work. I merely share updates/additions for new/changed ships and/or cargo capacities that I've done for my own use while awaiting Erecco's official update. All credit goes to Erecco for his original work!
 
