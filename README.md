@@ -14,7 +14,7 @@ https://github.com/frosty024/Cargo_Grid_Reference_Guide/releases
 It's entirely possible that my updates are not 100% accurate. I do not own/fly all of the ships in this guide. I also cannot account for the original work in this guide.
 
 - **Isometric cargo grid representation**<br>
-The point of view is typically from the ramp of the ship (this would usually be at the rear).
+The point of view is typically from the ramp of the ship (this would usually be at the rear, but there _are_ exceptions. For example, the Ironclad ramp is at the _front_ of the ship).
 
 - **Optimized loading configuration**<br>
 Time is money! Since moving 8 1SCU containers takes much longer than moving 1 8SCU container, the depicted loading configurations represent the least amount of containers needed to fill the entire cargo hold.
